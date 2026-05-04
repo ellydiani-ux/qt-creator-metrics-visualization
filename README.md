@@ -25,4 +25,4 @@ O principal requisito funcional do sistema é calcular as métricas de cada clas
 - Qualide de software
 
 ## Origem
-Projeto desenvolvido durante a pesquisa de especialização em Computação Distribuída e Ubíqua.
+Projeto desenvolvido durante a graduação em análise e desenvolvimento de sistemas.
