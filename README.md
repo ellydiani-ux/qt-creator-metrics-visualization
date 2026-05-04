@@ -23,7 +23,6 @@ O principal requisito funcional do sistema é calcular as métricas de cada clas
 ## Aplicações
 - Refatoração de software
 - Qualide de software
-  [
 
 ## Origem
 Projeto desenvolvido durante a pesquisa de especialização em Computação Distribuída e Ubíqua.
